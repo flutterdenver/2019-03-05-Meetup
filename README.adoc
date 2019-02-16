@@ -1,0 +1,47 @@
+
+:toc:
+:toc-placement!:
+
+This repository is a suplement to the main event managed through https://www.meetup.com/Flutter-Denver/events/258770127/[meetup.com].
+
+:toc-title: Tuesday, March 5, 2019
+
+toc::[]
+
+
+= Flutter Denver Presents: More Speakers, More Awesome
+
+
+== Topics and Presenters
+
+* Debugging with Android Studio
+** https://www.meetup.com/Flutter-Denver/members/187657703/[Michael Jordan]
+
+* Flutter – A Sweet Dish, but Not all “Peaches and Cream”, Part 2
+** https://www.meetup.com/Flutter-Denver/members/13123596/[David Baron]
+
+
+=== Organizers
+
+* Eric Spery
+** https://twitter.com/ericspery[<@ericspery>]
+
+* Levi Cook
+** https://twitter.com/levicook[<@levicook>]
+
+=== Host and Location
+
+* Code Talent
+** https://www.google.com/maps/search/?api=1&query=3412+Blake+St.%2C+Denver%2C+CO%2C+80205%2C+us[3412 Blake St. · Denver, CO]
+** http://www.code-talent.com
+** https://twitter.com/CodeTechTalent[@CodeTechTalent]
+
+=== Event Details
+
+This particular event is organized here:
+https://www.meetup.com/Flutter-Denver/events/258770127/
+
+=== Meetup Details
+
+The meetup group is organized here:
+https://www.meetup.com/Flutter-Denver/
