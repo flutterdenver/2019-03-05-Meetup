@@ -23,11 +23,11 @@ toc::[]
 
 === Organizers
 
-* Eric Spery
-** https://twitter.com/ericspery[<@ericspery>]
+* https://www.meetup.com/Flutter-Denver/members/8198840/[Eric Spery]
+** Twitter: https://twitter.com/ericspery[@ericspery]
 
-* Levi Cook
-** https://twitter.com/levicook[<@levicook>]
+* https://www.meetup.com/Flutter-Denver/members/13887172/[Levi Cook]
+** Twitter: https://twitter.com/levicook[@levicook]
 
 === Host and Location
 
