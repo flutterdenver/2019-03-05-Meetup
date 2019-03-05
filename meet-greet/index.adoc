@@ -1,0 +1,45 @@
+
+:revealjs_autoSlide: 10000
+:revealjs_center: false
+:revealjs_history: true
+:revealjs_loop: true
+
+== Welcome to Flutter Denver
+
+Welcome to Flutter Denver
+
+include::wifi.adoc[]
+
+== Welcome to Code Talent!
+
+* We hope you enjoy the space and beverages!
+* Have a great event!
+
+[horizontal]
+Code Talent::
+https://twitter.com/CodeTechTalent[@CodeTechTalent]
+
+include::wifi.adoc[]
+
+== Greetings from Ausin Fraser!
+
+We hope you enjoy the food!
+
+[horizontal]
+Autin Fraser::
+https://twitter.com/austinfraseraf[@AustinFraserAF]
+
+Douglas Timms::
+https://www.linkedin.com/in/douglas-timms-1bab39b9/
+
+== Bathrooms
+
+There are 2 bathrooms, one on either side of the kitchenette.
+
+include::wifi.adoc[]
+
+== Wheelchair Access
+
+Is available through the back-alley entrance.
+
+include::wifi.adoc[]

@@ -1,0 +1,11 @@
+
+== WiFi
+
+|===
+| |         |                  |
+| |Network  |*`Padawan`*       |
+| |Password |*`welcometocode`* |
+| |         |                  |
+|===
+
+Thanks again https://twitter.com/CodeTechTalent[@CodeTechTalent]!
