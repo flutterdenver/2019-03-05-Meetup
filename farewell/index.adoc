@@ -1,0 +1,29 @@
+
+:revealjs_autoSlide: 10000
+:revealjs_center: false
+:revealjs_history: true
+:revealjs_loop: true
+
+== Farewell!
+
+Thank you for coming tonight!
+
+== Adieu!
+
+Please don’t forget to leave the space as you found it.
+
+* Put chairs back on the rack
+* Throw trash away in the black trash can and recycle in the blue trash can provided
+* Put any dishes in the dishwasher, if available
+
+== Adios!
+
+Let's make this relevant and interesting for the group
+
+* Tell us what you want to hear about
+* Share what you're willing to present
+* Connect with the organizers:
+
+[horizontal]
+Eric Spery:: https://twitter.com/ericspery[@ericspery]
+Levi Cook:: https://twitter.com/levicook[@levicook]

@@ -1,0 +1,50 @@
+#!/usr/bin/env node
+
+const glob = require('glob')
+const path = require('path')
+
+const asciidoctor = require('asciidoctor.js')()
+require('asciidoctor-reveal.js')
+
+const bs = require('browser-sync').create()
+
+function buildAllHtml () {
+  glob('*/index.adoc', function (err, adocs) {
+    if (err) throw err
+    adocs.forEach(buildOneHtml)
+  })
+}
+
+function buildOneHtml (adoc) {
+  console.log('[present] building', adoc.replace('.adoc', '.html'), 'from', adoc)
+  asciidoctor.convertFile(path.resolve(adoc), {
+    safe: 'safe',
+    backend: 'revealjs',
+    attributes: {
+      'revealjsdir': '/node_modules/reveal.js',
+      'revealjs_theme': 'solarized',
+      'source-highlighter': 'highlightjs'
+    }
+  })
+}
+
+// build all html when browswer sync starts
+bs.emitter.on('init', buildAllHtml)
+
+// reload when index.html files change
+bs.watch('*/index.html').on('change', bs.reload)
+
+// build all html when a dart file changes
+bs.watch('**/*.dart').on('change', buildAllHtml)
+
+// build index.html when index.adoc files change
+bs.watch('*/index.adoc').on('change', buildOneHtml)
+
+// start the server
+bs.init({
+  directory: true,
+  notify: false,
+  open: false,
+  server: true,
+  ui: false
+})
