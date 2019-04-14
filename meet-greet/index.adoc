@@ -16,21 +16,21 @@ include::wifi.adoc[]
 * Have a great event!
 
 [horizontal]
-Code Talent::
-https://twitter.com/CodeTechTalent[@CodeTechTalent]
+Twitter:: https://twitter.com/CodeTechTalent[@CodeTechTalent]
+LinkedIn:: https://www.linkedin.com/company/codetalent/[+CodeTalent]
 
 include::wifi.adoc[]
 
 == Greetings from Ausin Fraser!
 
-We hope you enjoy the food!
+Enjoy the food!
 
 [horizontal]
 Autin Fraser::
 https://twitter.com/austinfraseraf[@AustinFraserAF]
 
-Douglas Timms::
-https://www.linkedin.com/in/douglas-timms-1bab39b9/
+Denver Sponsor::
+https://www.linkedin.com/in/douglas-timms-1bab39b9/[Douglas Timms]
 
 == Bathrooms
 
